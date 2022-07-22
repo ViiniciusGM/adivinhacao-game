@@ -1,12 +1,12 @@
 <h1> Projeto Jogo da Adivinhação! 
-  <h4>https://viiniciusgm.github.io/
+  <h4>https://viiniciusgm.github.io/adivinhacao-game/
   
 ##
 
-![image]
+![image](https://user-images.githubusercontent.com/92201792/180576504-080a1d5e-19d6-4e2d-9a09-0ef91d834d5e.png)
 ##
 
-![image]
+![image](https://user-images.githubusercontent.com/92201792/180576552-ae75d4d0-0ae2-48e0-a2cb-e326e1160053.png)
 
 
 Projeto do Stage 5 Modulo 1 da Rockeseat 💜🚀
