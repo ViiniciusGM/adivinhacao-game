@@ -4,7 +4,6 @@ const btnTry = document.querySelector('#btnTry');
 const btnReset = document.querySelector('#btnReset');
 
 let randomNumber = Math.round(Math.random() * 10);
-console.log(randomNumber);
 let xAttempts = 1;
 
 function handleTryClick(event){
