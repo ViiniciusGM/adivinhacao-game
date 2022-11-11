@@ -1,5 +1,5 @@
 <h1> Projeto Jogo da Adivinhação! 
-  <h4>https://viiniciusgm.github.io/adivinhacao-game/
+  <h4>https://viniciusamc.github.io/adivinhacao-game/
   
 ##
 
